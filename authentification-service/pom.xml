@@ -17,7 +17,7 @@
         <java.version>17</java.version>
         <sonar.organization>catmilkemsi</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>auth-service</sonar.projectKey>
+		<sonar.projectKey>catmilkemsi_auth-service</sonar.projectKey>
 		<sonar.login>301a6394a9f0bf72c7825eaf93699da053b17313</sonar.login>
     </properties>
     <dependencies>
